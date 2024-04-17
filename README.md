@@ -1,2 +1,2 @@
 # CurrencyConverter
-Currency Converter is a simple Android app built using Jetpack Compose that allows users to convert between different currencies.
+This repository hosts an Android Currency Converter application that showcases comprehensive testing methodologies, covering various aspects of app development. The app includes UI testing, Room DAO test cases, and integration testing with a remote repository using Ktor HttpClient's MockEngine.
